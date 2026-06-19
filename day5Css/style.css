@@ -1,0 +1,19 @@
+/* //No structure Directly Write Css Code */
+
+div{
+    background-color: beige;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div p{
+    color: blueviolet;
+}
+
+h1{
+    font-family: cursive;
+    color: red;
+
+}
+
